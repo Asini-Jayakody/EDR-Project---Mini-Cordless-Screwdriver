@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BAT Pin=J8-1
+Removed Pin From Net: NetName=BAT Pin=J8-2
+Removed Pin From Net: NetName=MENU Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Member From Class: ClassName=Sheet2 Member=J8
+Added Component: Designator=J1(PAD3 1.02X1.57MM)
+Added Pin To Net: NetName=BAT Pin=J1-1
+Added Pin To Net: NetName=MENU Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=Sheet2 Member=Component J1 PAD3 1.02X1.57MM
+Added Room: Name=Sheet2
