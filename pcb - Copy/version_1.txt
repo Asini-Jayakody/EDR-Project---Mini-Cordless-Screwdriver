@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\campus\4.sem4\EDR\project\EDR project\EDR-Project---Mini-Cordless-Screwdriver\pcb\version_1.PcbDoc
+Date         : 4/26/2023
+Time         : 2:33:34 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 81.6767mmx20.701mm
+    Components on board, 17
+count : 2

@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=BAT Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=7V Pin=J3-1
+Added Pin To Net: NetName=BAT Pin=J4-1
+Added Pin To Net: NetName=OUTPUT1 Pin=J5-1
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=SCL Pin=J6-1
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=SCL Pin=J7-1

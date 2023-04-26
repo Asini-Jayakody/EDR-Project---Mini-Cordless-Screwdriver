@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YQOLYIWE
 
 [Document3]
-DocumentPath=PCB3.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YSXDKLAX
-
-[Document4]
 DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUYGEYIT
 
-[Document5]
+[Document4]
 DocumentPath=PCB4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

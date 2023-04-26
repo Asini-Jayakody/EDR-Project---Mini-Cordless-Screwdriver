@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=7V Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=BAT Pin=J?-1
+Added Pin To Net: NetName=BAT Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=OUTPUT1 Pin=J?-1
+Added Pin To Net: NetName=SCL Pin=J?-1
+Added Pin To Net: NetName=SCL Pin=J?-1
+Added Pin To Net: NetName=BAT Pin=SWA?-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C?-1
+Added Pin To Net: NetName=XTAL2 Pin=U?-10
+Added Pin To Net: NetName=XTAL2 Pin=Y?-1
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD4 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD4 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD2 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD2 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD2 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component J? PAD2 1.02X1.57MM
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component SW? B3F-4000
+Added Member To Class: ClassName=Sheet1 Member=Component SW? B3F-4000
+Added Member To Class: ClassName=Sheet1 Member=Component U? ATMEGA328-PU

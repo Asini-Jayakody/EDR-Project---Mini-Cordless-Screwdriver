@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\campus\4.sem4\EDR\project\pcb\PCB_Project\PCB4.PcbDoc
+Date         : 4/18/2023
+Time         : 4:10:37 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 81.6767mmx20.701mm
+    Components on board, 18
+count : 2
