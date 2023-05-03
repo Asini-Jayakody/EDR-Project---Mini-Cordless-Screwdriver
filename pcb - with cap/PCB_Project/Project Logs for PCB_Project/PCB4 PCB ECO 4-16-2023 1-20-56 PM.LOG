@@ -1,5 +1,0 @@
-Added Component: Designator=J12(PAD3 1.02X1.57MM)
-Added Pin To Net: NetName=PB1 Pin=J12-1
-Added Pin To Net: NetName=PB2 Pin=J12-2
-Added Pin To Net: NetName=+5 Pin=J12-3
-Added Member To Class: ClassName=Sheet2 Member=Component J12 PAD3 1.02X1.57MM

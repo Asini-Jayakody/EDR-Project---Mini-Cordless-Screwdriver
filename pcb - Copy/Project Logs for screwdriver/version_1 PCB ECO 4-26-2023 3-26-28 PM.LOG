@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=c? NewDesignator=c1
-Change Component Designator: OldDesignator=c? NewDesignator=c2
-Change Component Designator: OldDesignator=Y? NewDesignator=Y1
-Added Member To Class: ClassName=version_1 Member=Component c2 22pF
-Added Room: Name=version_1
